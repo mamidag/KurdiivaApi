@@ -1,7 +1,7 @@
 {
   "language": [
     {
-      "ïd": 1,
+      "Id": 1,
       "name": "Kurdi",
       "flag": "",
       "tvdata": [
@@ -418,7 +418,7 @@
       ]
     },
     {
-      "id": "2",
+      "Id": "2",
       "name": "Türkçe",
       "flag": "",
       "tvdata": [
