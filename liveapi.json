@@ -3,8 +3,8 @@
     {
       "ïd": 1,
       "name": "Kurdi",
-      "flagUrl": "",
-      "data": [
+      "flag": "",
+      "tvdata": [
         {
           "Id": 120,
           "ChannelId": "1d191c2a-e9f3-44ce-9c99-660f1d9cef3c",
@@ -317,13 +317,111 @@
           "Lang": "Kurdish",
           "PGids": null
         }
+      ],
+      "radiodata": [
+        {
+          "Id": 158,
+          "ChannelId": "32a091e3-60ee-4d9e-8bf9-8c2d574471e9",
+          "Name": "Dicle Fm",
+          "Genre": "Mix",
+          "ChannelType": 2,
+          "Url": "http://yayin.firatfm.com:3065/;stream.nsv",
+          "Logo": "https://hevitv.appkurd.com/img/v4/logos/dicleradio.png",
+          "Descp": "",
+          "Lang": "Kurdish",
+          "PGids": null
+        },
+        {
+          "Id": 148,
+          "ChannelId": "6cf2857a-975e-4cb0-9b56-6003f2c72d50",
+          "Name": "Radyo Hevi",
+          "Genre": "General",
+          "ChannelType": 2,
+          "Url": "http://yayin3.canlitv.com:7075",
+          "Logo": "https://hevitv.appkurd.com/img/v4/logos/icn_radio.png",
+          "Descp": "",
+          "Lang": "Kurdish",
+          "PGids": null
+        },
+        {
+          "Id": 182,
+          "ChannelId": "2468225a-206c-44c7-9870-9e151c6c4c3b",
+          "Name": "Denge Cudi",
+          "Genre": "Music",
+          "ChannelType": 2,
+          "Url": "http://95.173.162.182:9992/;stream.mp3",
+          "Logo": "https://hevitv.appkurd.com/img/v4/logos/icn_radio.png",
+          "Descp": "",
+          "Lang": "Kurdish",
+          "PGids": null
+        },
+        {
+          "Id": 169,
+          "ChannelId": "cf00670f-9f52-430b-b657-defbc7248fa4",
+          "Name": "Özel FM",
+          "Genre": "Music",
+          "ChannelType": 2,
+          "Url": "http://85.95.248.115:8014/;stream/1#.mp3",
+          "Logo": "https://hevitv.appkurd.com/img/v4/logos/icn_radio.png",
+          "Descp": "",
+          "Lang": "Kurdish",
+          "PGids": null
+        },
+        {
+          "Id": 189,
+          "ChannelId": "64c26905-ed8f-4760-a703-1db85b4772e2",
+          "Name": "Radio Dersim",
+          "Genre": "Music",
+          "ChannelType": 2,
+          "Url": "http://yayin1.yayindakiler.com:3002",
+          "Logo": "https://hevitv.appkurd.com/img/v4/logos/icn_radio.png",
+          "Descp": "",
+          "Lang": "Kurdish",
+          "PGids": null
+        },
+        {
+          "Id": 154,
+          "ChannelId": "506cf50d-9b8e-40b1-a256-906645563d9f",
+          "Name": "Radio Firat",
+          "Genre": "Mix",
+          "ChannelType": 2,
+          "Url": "http://yayin.firatfm.com:3065/stream.mp3",
+          "Logo": "https://hevitv.appkurd.com/img/v4/logos/radiofirat.png",
+          "Descp": "",
+          "Lang": "Kurdish",
+          "PGids": null
+        },
+        {
+          "Id": 177,
+          "ChannelId": "b86b8006-fe5d-4ac5-9ad2-b383bc6597c4",
+          "Name": "Radyo Denge Kurdi",
+          "Genre": "Music",
+          "ChannelType": 2,
+          "Url": "http://denge-cudi.stream.laut.fm/denge-cudi",
+          "Logo": "https://hevitv.appkurd.com/img/v4/logos/icn_radio.png",
+          "Descp": "",
+          "Lang": "Kurdish",
+          "PGids": null
+        },
+        {
+          "Id": 164,
+          "ChannelId": "0284eeb1-155e-495b-957f-261224b55253",
+          "Name": "Suroyo FM",
+          "Genre": "General",
+          "ChannelType": 2,
+          "Url": "http://curiosity.shoutca.st:7662/stream",
+          "Logo": "https://hevitv.appkurd.com/img/v4/logos/icn_radio.png",
+          "Descp": "",
+          "Lang": "Kurdish",
+          "PGids": null
+        }
       ]
     },
     {
       "id": "2",
       "name": "Türkçe",
-      "flagUrl": "",
-      "data": [
+      "flag": "",
+      "tvdata": [
         {
           "Id": 50,
           "ChannelId": "7102c9ff-9176-49ea-ab9c-5d530fc8426c",
@@ -540,8 +638,47 @@
           "Lang": "Turkish",
           "PGids": null
         }
+      ],
+      "radiodata": [
+        {
+          "Id": 219,
+          "ChannelId": "852c5792-fb60-4931-b158-7e955bc80ead",
+          "Name": "Kral Fm",
+          "Genre": "Music",
+          "ChannelType": 2,
+          "Url": "http://46.20.3.204/listen.pls",
+          "Logo": "https://hevitv.appkurd.com/img/v4/logos/icn_radio.png",
+          "Descp": "",
+          "Lang": "Turkish",
+          "PGids": null
+        },
+        {
+          "Id": 161,
+          "ChannelId": "f7fe8e6b-e3c8-425c-9c37-134e17f7655c",
+          "Name": "Metro FM",
+          "Genre": "Pop Hits",
+          "ChannelType": 2,
+          "Url": "http://provisioning.streamtheworld.com/pls/METRO_FM.pls",
+          "Logo": "https://hevitv.appkurd.com/img/v4/logos/metrofm.png",
+          "Descp": "",
+          "Lang": "Turkish",
+          "PGids": null
+        },
+        {
+          "Id": 156,
+          "ChannelId": "c3b66b85-fe03-47b2-abe1-0e9bbf09c583",
+          "Name": "Ntv Spor Radyo",
+          "Genre": "Sport",
+          "ChannelType": 2,
+          "Url": "http://ntvsporsc.radyotvonline.com:80/listen.pls",
+          "Logo": "https://hevitv.appkurd.com/img/v4/logos/ntvsporradyo.png",
+          "Descp": "",
+          "Lang": "Turkish",
+          "PGids": null
+        }
       ]
     },
     
-  ]
+  ],
+  
 }
