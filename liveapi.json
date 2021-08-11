@@ -6,6 +6,7 @@
       "flag": "",
       "tvdata": [
         {
+          "itemCount": "26",
           "genre": [
             {
               "Genre": "News",
@@ -318,6 +319,7 @@
       ],
       "radiodata": [
         {
+          "itemCount": "8",
           "genre": [
             {
               "Genre": "Music",
@@ -432,6 +434,7 @@
       "flag": "",
       "tvdata": [
         {
+          "itemCount": "18",
           "genre": [
             {
               "Genre": "General",
@@ -646,6 +649,7 @@
       ],
       "radiodata": [
         {
+          "itemCount": "3",
           "genre": [
             {
               "Genre": "Music",
