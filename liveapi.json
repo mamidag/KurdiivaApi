@@ -17,7 +17,7 @@
                   "Name": "Medya Haber",
                   "ChannelType": 1,
                   "Url": "http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/23.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/medyahaber-tv.png",
+                  "Logo": "https://github.com/mamidag/KurdiivaApi/raw/main/image/kr_channels/medyahaber.png",
                   "Descp": "",
                   "Lang": "Kurdish",
                   "PGids": null
@@ -28,7 +28,7 @@
                   "Name": "Kurdistan Tv",
                   "ChannelType": 1,
                   "Url": "http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/42.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/kurdistan-tv.png",
+                  "Logo": "https://github.com/mamidag/KurdiivaApi/raw/main/image/kr_channels/kurdıstantv.png",
                   "Descp": "",
                   "Lang": "Kurdish",
                   "PGids": null
@@ -39,7 +39,7 @@
                   "Name": "Stêrk Tv",
                   "ChannelType": 1,
                   "Url": "http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/24.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/sterk-tv.png",
+                  "Logo": "https://github.com/mamidag/KurdiivaApi/raw/main/image/kr_channels/sterktv.png",
                   "Descp": "",
                   "Lang": "Kurdish",
                   "PGids": null
@@ -50,7 +50,7 @@
                   "Name": "Kurdsat News HD",
                   "ChannelType": 1,
                   "Url": "http://ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/manifest.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/kurdsat-news-tv.png",
+                  "Logo": "https://github.com/mamidag/KurdiivaApi/raw/main/image/kr_channels/kurdsatNews.png",
                   "Descp": "",
                   "Lang": "Kurdish",
                   "PGids": null
@@ -61,7 +61,7 @@
                   "Name": "Rûdaw HD",
                   "ChannelType": 1,
                   "Url": "https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/rudaw-tv.png",
+                  "Logo": "https://github.com/mamidag/KurdiivaApi/raw/main/image/kr_channels/rudaw.png",
                   "Descp": "",
                   "Lang": "Kurdish",
                   "PGids": null
@@ -72,7 +72,7 @@
                   "Name": "KurdMax Show - Kur",
                   "ChannelType": 1,
                   "Url": "http://31.14.40.139:1935/liveTrans/ngrp:SHOW1_all/playlist.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/kurdmax-show.png",
+                  "Logo": "https://github.com/mamidag/KurdiivaApi/raw/main/image/kr_channels/kurdmaxshow.png",
                   "Descp": "",
                   "Lang": "Kurdish",
                   "PGids": null
@@ -83,7 +83,7 @@
                   "Name": "Kurdistan 24",
                   "ChannelType": 1,
                   "Url": "http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/40.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/kurdistan24.png",
+                  "Logo": "https://github.com/mamidag/KurdiivaApi/raw/main/image/kr_channels/kurdistan24.png",
                   "Descp": null,
                   "Lang": "Kurdish",
                   "PGids": null
@@ -99,7 +99,7 @@
                   "Name": "Ronahi Tv",
                   "ChannelType": 1,
                   "Url": "http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/26.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/ronahi-tv.png",
+                  "Logo": "https://github.com/mamidag/KurdiivaApi/raw/main/image/kr_channels/ronahitv.png",
                   "Descp": "",
                   "Lang": "Kurdish",
                   "PGids": null
@@ -110,7 +110,7 @@
                   "Name": "Zagros Tv",
                   "ChannelType": 1,
                   "Url": "http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/48.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/zagros-tv.png",
+                  "Logo": "https://github.com/mamidag/KurdiivaApi/raw/main/image/kr_channels/zagros.png",
                   "Descp": "",
                   "Lang": "Kurdish",
                   "PGids": null
@@ -121,7 +121,7 @@
                   "Name": "Kurdsat HD",
                   "ChannelType": 1,
                   "Url": "http://176.10.117.18:8000/play/a006/index.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/kurdsat-tv.png",
+                  "Logo": "https://github.com/mamidag/KurdiivaApi/raw/main/image/kr_channels/kurdsatHD.png",
                   "Descp": "",
                   "Lang": "Kurdish",
                   "PGids": null
@@ -132,7 +132,7 @@
                   "Name": "Zarok Tv",
                   "ChannelType": 1,
                   "Url": "http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/59.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/zarok-tv.png",
+                  "Logo": "https://github.com/mamidag/KurdiivaApi/raw/main/image/kr_channels/zarokTv.png",
                   "Descp": "",
                   "Lang": "Kurdish",
                   "PGids": null
@@ -143,7 +143,7 @@
                   "Name": "Kurdmax HD - Kur",
                   "ChannelType": 1,
                   "Url": "http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/30.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/kurdmax-tv.png",
+                  "Logo": "https://github.com/mamidag/KurdiivaApi/raw/main/image/kr_channels/kurdmax.png",
                   "Descp": "",
                   "Lang": "Kurdish",
                   "PGids": null
@@ -154,7 +154,7 @@
                   "Name": "Kurdmax Show - Sor",
                   "ChannelType": 1,
                   "Url": "http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/32.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/kurdmax-show.png",
+                  "Logo": "https://github.com/mamidag/KurdiivaApi/raw/main/image/kr_channels/kurdmaxshow.png",
                   "Descp": "",
                   "Lang": "Kurdish",
                   "PGids": null
@@ -165,7 +165,7 @@
                   "Name": "Çira Tv",
                   "ChannelType": 1,
                   "Url": "http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/25.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/cira-tv.png",
+                  "Logo": "https://github.com/mamidag/KurdiivaApi/raw/main/image/kr_channels/cıratv.png",
                   "Descp": "",
                   "Lang": "Kurdish",
                   "PGids": null
@@ -176,7 +176,7 @@
                   "Name": "Artı Tv",
                   "ChannelType": 1,
                   "Url": "http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/139.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/arti-tv.png",
+                  "Logo": "https://github.com/mamidag/KurdiivaApi/raw/main/image/kr_channels/artıtv.png",
                   "Descp": "",
                   "Lang": "Kurdish",
                   "PGids": "NULL"
@@ -187,7 +187,7 @@
                   "Name": "Jin TV",
                   "ChannelType": 1,
                   "Url": "http://198.100.158.231:1935/live/jintv/playlist.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/icn_tv.png",
+                  "Logo": "https://github.com/mamidag/KurdiivaApi/raw/main/image/kr_channels/jıntv.png",
                   "Descp": "",
                   "Lang": "Kurdish",
                   "PGids": "NULL"
@@ -198,7 +198,7 @@
                   "Name": "Gali Kurdistan",
                   "ChannelType": 1,
                   "Url": "http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/37.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/gali-kurdistan-tv.png",
+                  "Logo": "https://github.com/mamidag/KurdiivaApi/raw/main/image/kr_channels/galikurdistan.png",
                   "Descp": "",
                   "Lang": "Kurdish",
                   "PGids": "NULL"
@@ -209,7 +209,7 @@
                   "Name": "Kurdmax Music",
                   "ChannelType": 1,
                   "Url": "https://5aa8c7549bfa9.streamlock.net:443/music/livestream/playlist.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/icn_tv.png",
+                  "Logo": "https://github.com/mamidag/KurdiivaApi/raw/main/image/kr_channels/kurdmaxmusic.png",
                   "Descp": "",
                   "Lang": "Kurdish",
                   "PGids": null
@@ -220,7 +220,7 @@
                   "Name": "Net Tv HD",
                   "ChannelType": 1,
                   "Url": "http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/39.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/net-tv-hd.png",
+                  "Logo": "https://github.com/mamidag/KurdiivaApi/raw/main/image/kr_channels/nettvhd.png",
                   "Descp": "",
                   "Lang": "Kurdish",
                   "PGids": "NULL"
@@ -231,7 +231,7 @@
                   "Name": "Speda",
                   "ChannelType": 1,
                   "Url": "http://liveshell.net:1935/live/speda084k/playlist.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/speda-tv.png",
+                  "Logo": "https://github.com/mamidag/KurdiivaApi/raw/main/image/kr_channels/spedatv.png",
                   "Descp": "",
                   "Lang": "Kurdish",
                   "PGids": null
@@ -242,7 +242,7 @@
                   "Name": "Suroyo Tv",
                   "ChannelType": 1,
                   "Url": "http://198.100.158.231:1935/live/suroyo/playlist.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/icn_tv.png",
+                  "Logo": "https://github.com/mamidag/KurdiivaApi/raw/main/image/kr_channels/suryoyo.png",
                   "Descp": "",
                   "Lang": "Kurdish",
                   "PGids": "NULL"
@@ -253,7 +253,7 @@
                   "Name": "Waar Tv HD",
                   "ChannelType": 1,
                   "Url": "http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/52.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/waar-tv.png",
+                  "Logo": "https://github.com/mamidag/KurdiivaApi/raw/main/image/kr_channels/vaartv.png",
                   "Descp": "",
                   "Lang": "Kurdish",
                   "PGids": null
@@ -264,7 +264,7 @@
                   "Name": "Nrt HD",
                   "ChannelType": 1,
                   "Url": "http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/53.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/nrt-tv.png",
+                  "Logo": "https://github.com/mamidag/KurdiivaApi/raw/main/image/kr_channels/nrthd.png",
                   "Descp": "",
                   "Lang": "Kurdish",
                   "PGids": "NULL"
@@ -275,7 +275,7 @@
                   "Name": "Nrt 2 HD",
                   "ChannelType": 1,
                   "Url": "http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/54.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/nrt-2-tv.png",
+                  "Logo": "https://github.com/mamidag/KurdiivaApi/raw/main/image/kr_channels/nrt2.png",
                   "Descp": "",
                   "Lang": "Kurdish",
                   "PGids": null
@@ -291,7 +291,7 @@
                   "Name": "Kurdmax HD - Sor",
                   "ChannelType": 1,
                   "Url": "http://31.14.40.139:1935/liveTrans/ngrp:myStream_all/playlist.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/kurdmax-tv.png",
+                  "Logo": "https://github.com/mamidag/KurdiivaApi/raw/main/image/kr_channels/kurdmax.png",
                   "Descp": "",
                   "Lang": "Kurdish",
                   "PGids": null
@@ -307,7 +307,7 @@
                   "Name": "Med Müzik",
                   "ChannelType": 1,
                   "Url": "http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/29.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/medmuzik-tv.png",
+                  "Logo": "https://github.com/mamidag/KurdiivaApi/raw/main/image/kr_channels/",
                   "Descp": "",
                   "Lang": "Kurdish",
                   "PGids": null
