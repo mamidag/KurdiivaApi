@@ -330,7 +330,7 @@
                   "Name": "Radyo Denge Kurdi",
                   "ChannelType": 2,
                   "Url": "http://denge-cudi.stream.laut.fm/denge-cudi",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/icn_radio.png",
+                  "Logo": "https://raw.githubusercontent.com/mamidag/KurdiivaApi/main/image/kr_radios/radyodengekurdi.png",
                   "Descp": "",
                   "Lang": "Kurdish",
                   "PGids": null
@@ -341,7 +341,7 @@
                   "Name": "Radio Dersim",
                   "ChannelType": 2,
                   "Url": "http://yayin1.yayindakiler.com:3002",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/icn_radio.png",
+                  "Logo": "https://raw.githubusercontent.com/mamidag/KurdiivaApi/main/image/kr_radios/radyodersin.png",
                   "Descp": "",
                   "Lang": "Kurdish",
                   "PGids": null
@@ -352,7 +352,7 @@
                   "Name": "Denge Cudi",
                   "ChannelType": 2,
                   "Url": "http://95.173.162.182:9992/;stream.mp3",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/icn_radio.png",
+                  "Logo": "https://raw.githubusercontent.com/mamidag/KurdiivaApi/main/image/kr_radios/dengecudi.png",
                   "Descp": "",
                   "Lang": "Kurdish",
                   "PGids": null
@@ -363,7 +363,7 @@
                   "Name": "Özel FM",
                   "ChannelType": 2,
                   "Url": "http://85.95.248.115:8014/;stream/1#.mp3",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/icn_radio.png",
+                  "Logo": "https://raw.githubusercontent.com/mamidag/KurdiivaApi/main/image/kr_radios/ozelfm.png",
                   "Descp": "",
                   "Lang": "Kurdish",
                   "PGids": null
@@ -379,7 +379,7 @@
                   "Name": "Radyo Hevi",
                   "ChannelType": 2,
                   "Url": "http://yayin3.canlitv.com:7075",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/icn_radio.png",
+                  "Logo": "https://raw.githubusercontent.com/mamidag/KurdiivaApi/main/image/kr_radios/hevitv.png",
                   "Descp": "",
                   "Lang": "Kurdish",
                   "PGids": null
@@ -390,7 +390,7 @@
                   "Name": "Suroyo FM",
                   "ChannelType": 2,
                   "Url": "http://curiosity.shoutca.st:7662/stream",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/icn_radio.png",
+                  "Logo": "https://raw.githubusercontent.com/mamidag/KurdiivaApi/main/image/kr_radios/suryoyo.png",
                   "Descp": "",
                   "Lang": "Kurdish",
                   "PGids": null
@@ -406,7 +406,7 @@
                   "Name": "Dicle Fm",
                   "ChannelType": 2,
                   "Url": "http://yayin.firatfm.com:3065/;stream.nsv",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/dicleradio.png",
+                  "Logo": "https://raw.githubusercontent.com/mamidag/KurdiivaApi/main/image/kr_radios/diclefm.png",
                   "Descp": "",
                   "Lang": "Kurdish",
                   "PGids": null
@@ -417,7 +417,7 @@
                   "Name": "Radio Firat",
                   "ChannelType": 2,
                   "Url": "http://yayin.firatfm.com:3065/stream.mp3",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/radiofirat.png",
+                  "Logo": "https://raw.githubusercontent.com/mamidag/KurdiivaApi/main/image/kr_radios/radiofirat.png",
                   "Descp": "",
                   "Lang": "Kurdish",
                   "PGids": null
