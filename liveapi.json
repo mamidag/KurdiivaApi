@@ -307,7 +307,7 @@
                   "Name": "Med Müzik",
                   "ChannelType": 1,
                   "Url": "http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/29.m3u8",
-                  "Logo": "https://github.com/mamidag/KurdiivaApi/raw/main/image/kr_channels/medmusic.png",
+                  "Logo": "https://raw.githubusercontent.com/mamidag/KurdiivaApi/main/image/kr_radios/medmusic.png",
                   "Descp": "",
                   "Lang": "Kurdish",
                   "PGids": null
@@ -445,7 +445,7 @@
                   "Name": "Eko Turk",
                   "ChannelType": 1,
                   "Url": "http://198.100.158.231:1935/live/ekoturk/playlist.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/icn_tv.png",
+                  "Logo": "https://raw.githubusercontent.com/mamidag/KurdiivaApi/main/image/tr_channels/ekoturk.png",
                   "Descp": "",
                   "Lang": "Turkish",
                   "PGids": null
@@ -456,7 +456,7 @@
                   "Name": "Star HD",
                   "ChannelType": 1,
                   "Url": "http://198.100.158.231:1935/live/star/playlist.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/star-tv.png",
+                  "Logo": "hhttps://raw.githubusercontent.com/mamidag/KurdiivaApi/main/image/tr_channels/starttv.png",
                   "Descp": "",
                   "Lang": "Turkish",
                   "PGids": null
@@ -467,7 +467,7 @@
                   "Name": "Kanal D HD",
                   "ChannelType": 1,
                   "Url": "http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/66.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/kanald-tv.png",
+                  "Logo": "https://raw.githubusercontent.com/mamidag/KurdiivaApi/main/image/tr_channels/kanald.png",
                   "Descp": "",
                   "Lang": "Turkish",
                   "PGids": null
@@ -478,7 +478,7 @@
                   "Name": "Beyaz Tv",
                   "ChannelType": 1,
                   "Url": "http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/87.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/icn_tv.png",
+                  "Logo": "https://raw.githubusercontent.com/mamidag/KurdiivaApi/main/image/tr_channels/beyaztv.png",
                   "Descp": "",
                   "Lang": "Turkish",
                   "PGids": null
@@ -489,7 +489,7 @@
                   "Name": "Fox HD",
                   "ChannelType": 1,
                   "Url": "http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/72.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/fox-tv.png",
+                  "Logo": "https://raw.githubusercontent.com/mamidag/KurdiivaApi/main/image/tr_channels/foxtv.png",
                   "Descp": "",
                   "Lang": "Turkish",
                   "PGids": null
@@ -500,7 +500,7 @@
                   "Name": "Kanal 7 HD",
                   "ChannelType": 1,
                   "Url": "http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/83.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/kanal7-tv.png",
+                  "Logo": "https://raw.githubusercontent.com/mamidag/KurdiivaApi/main/image/tr_channels/kanal7.png",
                   "Descp": "",
                   "Lang": "Turkish",
                   "PGids": null
@@ -511,7 +511,7 @@
                   "Name": "Tv 8 HD",
                   "ChannelType": 1,
                   "Url": "http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/74.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/tv8.png",
+                  "Logo": "https://raw.githubusercontent.com/mamidag/KurdiivaApi/main/image/tr_channels/tv8.png",
                   "Descp": "",
                   "Lang": "Turkish",
                   "PGids": null
@@ -527,7 +527,7 @@
                   "Name": "Cnn Türk HD",
                   "ChannelType": 1,
                   "Url": "http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/129.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/cnnturk-tv.png",
+                  "Logo": "https://raw.githubusercontent.com/mamidag/KurdiivaApi/main/image/tr_channels/cnnturk.png",
                   "Descp": "",
                   "Lang": "Turkish",
                   "PGids": "1"
@@ -538,7 +538,7 @@
                   "Name": "Haber Türk HD",
                   "ChannelType": 1,
                   "Url": "http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/130.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/haberturk-tv.png",
+                  "Logo": "https://raw.githubusercontent.com/mamidag/KurdiivaApi/main/image/tr_channels/haberturk.png",
                   "Descp": "",
                   "Lang": "Turkish",
                   "PGids": null
@@ -549,7 +549,7 @@
                   "Name": "Ntv HD",
                   "ChannelType": 1,
                   "Url": "http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/128.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/ntv-tv.png",
+                  "Logo": "https://raw.githubusercontent.com/mamidag/KurdiivaApi/main/image/tr_channels/ntv.png",
                   "Descp": "",
                   "Lang": "Turkish",
                   "PGids": "2,3"
@@ -560,7 +560,7 @@
                   "Name": "A2 HD",
                   "ChannelType": 1,
                   "Url": "http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/89.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/a2-tv.png",
+                  "Logo": "https://raw.githubusercontent.com/mamidag/KurdiivaApi/main/image/tr_channels/a2.png",
                   "Descp": "",
                   "Lang": "Turkish",
                   "PGids": "2,3"
@@ -571,7 +571,7 @@
                   "Name": "Haber Global",
                   "ChannelType": 1,
                   "Url": "http://198.100.158.231:1935/live/haberglobal/playlist.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/icn_tv.png",
+                  "Logo": "https://raw.githubusercontent.com/mamidag/KurdiivaApi/main/image/tr_channels/haberglobal.png",
                   "Descp": "",
                   "Lang": "Turkish",
                   "PGids": "2,3"
@@ -582,7 +582,7 @@
                   "Name": "24 Haber",
                   "ChannelType": 1,
                   "Url": "http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/134.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/kanal24-tv.png",
+                  "Logo": "https://raw.githubusercontent.com/mamidag/KurdiivaApi/main/image/tr_channels/tv24.png",
                   "Descp": "",
                   "Lang": "Turkish",
                   "PGids": null
@@ -593,7 +593,7 @@
                   "Name": "Bloomberg HT HD",
                   "ChannelType": 1,
                   "Url": "http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/151.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/bloomberg-tv.png",
+                  "Logo": "https://raw.githubusercontent.com/mamidag/KurdiivaApi/main/image/tr_channels/bght.png",
                   "Descp": "",
                   "Lang": "Turkish",
                   "PGids": null
@@ -604,7 +604,7 @@
                   "Name": "Halk Tv",
                   "ChannelType": 1,
                   "Url": "http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/141.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/icn_tv.png",
+                  "Logo": "https://raw.githubusercontent.com/mamidag/KurdiivaApi/main/image/tr_channels/halktv.png",
                   "Descp": "",
                   "Lang": "Turkish",
                   "PGids": null
@@ -615,7 +615,7 @@
                   "Name": "Krt Tv",
                   "ChannelType": 1,
                   "Url": "http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/135.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/krt-tv.png",
+                  "Logo": "https://raw.githubusercontent.com/mamidag/KurdiivaApi/main/image/tr_channels/krttv.png",
                   "Descp": null,
                   "Lang": "Turkish",
                   "PGids": null
@@ -626,7 +626,7 @@
                   "Name": "Tele 1",
                   "ChannelType": 1,
                   "Url": "http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/140.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/tele1-tv.png",
+                  "Logo": "https://raw.githubusercontent.com/mamidag/KurdiivaApi/main/image/tr_channels/tele1.png",
                   "Descp": "",
                   "Lang": "Turkish",
                   "PGids": null
@@ -637,7 +637,7 @@
                   "Name": "TV5",
                   "ChannelType": 1,
                   "Url": "http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/113.m3u8",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/icn_tv.png",
+                  "Logo": "https://raw.githubusercontent.com/mamidag/KurdiivaApi/main/image/tr_channels/tv5.png",
                   "Descp": "",
                   "Lang": "Turkish",
                   "PGids": null
@@ -660,7 +660,7 @@
                   "Name": "Kral Fm",
                   "ChannelType": 2,
                   "Url": "http://46.20.3.204/listen.pls",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/icn_radio.png",
+                  "Logo": "https://raw.githubusercontent.com/mamidag/KurdiivaApi/main/image/tr_radio/kralfm.png",
                   "Descp": "",
                   "Lang": "Turkish",
                   "PGids": null
@@ -671,7 +671,7 @@
                   "Name": "Metro FM",
                   "ChannelType": 2,
                   "Url": "http://provisioning.streamtheworld.com/pls/METRO_FM.pls",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/metrofm.png",
+                  "Logo": "https://raw.githubusercontent.com/mamidag/KurdiivaApi/main/image/tr_radio/metrofm.png",
                   "Descp": "",
                   "Lang": "Turkish",
                   "PGids": null
@@ -687,7 +687,7 @@
                   "Name": "Ntv Spor Radyo",
                   "ChannelType": 2,
                   "Url": "http://ntvsporsc.radyotvonline.com:80/listen.pls",
-                  "Logo": "https://hevitv.appkurd.com/img/v4/logos/ntvsporradyo.png",
+                  "Logo": "https://raw.githubusercontent.com/mamidag/KurdiivaApi/main/image/tr_radio/ntvsporfm.png",
                   "Descp": "",
                   "Lang": "Turkish",
                   "PGids": null
