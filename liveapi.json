@@ -453,10 +453,10 @@
                 {
                   "Id": 51,
                   "ChannelId": "493f8a80-4d9c-4e9b-b9dc-85f19a452faf",
-                  "Name": "Star HD",
+                  "Name": "Star TV HD",
                   "ChannelType": 1,
                   "Url": "http://198.100.158.231:1935/live/star/playlist.m3u8",
-                  "Logo": "hhttps://raw.githubusercontent.com/mamidag/KurdiivaApi/main/image/tr_channels/starttv.png",
+                  "Logo": "https://raw.githubusercontent.com/mamidag/KurdiivaApi/main/image/tr_channels/starttv.png",
                   "Descp": "",
                   "Lang": "Turkish",
                   "PGids": null
